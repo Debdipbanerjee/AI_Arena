@@ -14,7 +14,7 @@ public class AIArena : ModuleRules
 										"CoreUObject",
 										"Engine", 
 										"InputCore", 
-										"HeadMountedDisplay", 
+										"HeadMountedDisplay",
 										"AIModule",
 										"GameplayTasks",
 										"NavigationSystem"
